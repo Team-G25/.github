@@ -24,6 +24,6 @@
 |    노찬영    | Project Lead / Frontend Developer | [@shroqkf](https://github.com/shroqkf)    |
 |    이다건    | AI Developer      | [@leedag](https://github.com/leedag)    |
 |    이지훈    | Backend Developer       | [@fallingify](https://github.com/fallingify)    |
-|    권민수    | Frontend Developer       | [@](https://github.com/)    |
+|    권민수    | Frontend Developer       | [@kminsoo0110](https://github.com/kminsoo0110)    |
 
 ---
